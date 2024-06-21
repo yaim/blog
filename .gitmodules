@@ -1,0 +1,4 @@
+[submodule "fa"]
+	path = fa
+	url = git@github.com:yaim/blog-fa.git
+	branch = blog
